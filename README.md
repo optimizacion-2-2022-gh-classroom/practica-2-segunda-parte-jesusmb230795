@@ -2,7 +2,7 @@
     <img src="img/itam_logo.png" />
 </p>
 
-# Parte 2 de la práctica II, Optimización 2: reimplementación de secciones de código del paquete construído para uso de niveles de BLAS, compilación a C, cómputo en paralelo, concurrente o distribuido. Preparación para la entrega de su práctica / proyecto final
+## Parte 2 de la práctica II, Optimización 2: reimplementación de secciones de código del paquete construído para uso de niveles de BLAS, compilación a C, cómputo en paralelo, concurrente o distribuido. Preparación para la entrega de su práctica / proyecto final
 
 
 ## Descripción
