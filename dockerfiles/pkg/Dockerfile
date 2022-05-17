@@ -24,7 +24,7 @@ RUN jupyter notebook --generate-config && \
 
 RUN pip3 install $PIP_PACKAGES_COMMON
 RUN pip3 install $PIP_PACKAGES_KALE
-RUN pip3 install git+https://github.com/optimizacion-2-2022-gh-classroom/practica-2-primera-parte-joelitam2021
+RUN pip3 install git+https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795
 
 RUN jupyter labextension install kubeflow-kale-labextension@0.6.1
 
