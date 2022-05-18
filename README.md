@@ -13,7 +13,7 @@
 
 | User| Equipo | Tareas | Roles |
 |:---:|:---:|:---:|:---:|
-AideJGC | 1 | | 
+AideJGC | 1 | Perfilamiento y compilación en C | Programador
 pautrejo | 1 |  | 
 joelitam2021 | 1 | | 
 jesusmb230795 | 1 |  | 
@@ -22,12 +22,25 @@ jesusmb230795 | 1 |  |
 
 ### Equipo
 
+Se dividio el equipo para realizar cuatro tareas. 
+
+1. 2 personas que realicen perfilamiento del código.  **Aide**
+
+2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide**
+
+3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*.
 
 
 
 ### Individual
 
+**Aide**: se investigó acerca de *web scraping* para obtener información de cryptomonedas. Se realizó perfilamiendo del método *bellman ford* usando diferentes métodos, asi como el perfilamiento de la función *exchange matrix* para variar el precio de las monedas en 5%. Elaboración de reporte.
 
+**Paulina**: 
+
+**Joel**: 
+
+**Enrique** 
 
 ### Documentación
 
