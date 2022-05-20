@@ -1,0 +1,6 @@
+﻿opt2.bf\_cython2.bf\_negative\_cycle\_cc
+========================================
+
+.. currentmodule:: opt2.bf_cython2
+
+.. autofunction:: bf_negative_cycle_cc

@@ -12,7 +12,7 @@ Welcome to Bellman Ford documentation!
 The Bellman-Ford algorithm provides the shortest distance from a prespecified origin node to all other nodes in the graph (weighted digraph). It is able to handle graphs where some of the edge weights are negative numbers. The based idea is: show if there is a negative cycle, generate a negative cycle and always find a negative cycle (if there is one) even if the graph is not connected.
 
 
-Code is optimized to use with or without Kale, also it is implemented in C.
+Code is optimized to run with or without Kale, also it is implemented in Python and C.
 
  .. toctree::
    :maxdepth: 1

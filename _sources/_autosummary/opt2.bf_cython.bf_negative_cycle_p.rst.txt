@@ -1,0 +1,6 @@
+﻿opt2.bf\_cython.bf\_negative\_cycle\_p
+======================================
+
+.. currentmodule:: opt2.bf_cython
+
+.. autofunction:: bf_negative_cycle_p
