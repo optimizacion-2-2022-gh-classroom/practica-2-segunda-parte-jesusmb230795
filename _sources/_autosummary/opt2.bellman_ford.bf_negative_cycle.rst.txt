@@ -1,6 +1,0 @@
-﻿opt2.bellman\_ford.bf\_negative\_cycle
-======================================
-
-.. currentmodule:: opt2.bellman_ford
-
-.. autofunction:: bf_negative_cycle
