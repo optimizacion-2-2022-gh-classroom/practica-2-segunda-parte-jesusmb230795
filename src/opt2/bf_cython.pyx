@@ -1,5 +1,25 @@
 import numpy as np 
 def bf_negative_cycle_p(graph, node_ini=None, distance_ini=np.inf):
+    """
+    Description
+    -------
+    
+    Get the shortest path using the Bellman-Ford algorithm, 
+    modify parameters monitoring: initial node and initial distance
+    
+    param:
+    -------
+    
+    G : Networkx DiGraph. The input graph.
+    node_ini : Optional parameter, indicate begining node
+    distance_ini : Deafault value is inf
+    
+    returns
+    -------
+    
+    list
+        A list with the shortest path.   
+    """
     
     assert distance_ini>=1, f"La distancia inicial debe de ser mayor o igual a 1. El parámetro fue igual a {distance_ini}"
     
