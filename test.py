@@ -1,5 +1,4 @@
-import bf_cython
-import bf_cython2
+from src.opt2 import *
 import numpy as np 
 import networkx as nx
 import unittest
