@@ -14,7 +14,7 @@
 | User| Equipo | Tareas | Roles |
 |:---:|:---:|:---:|:---:|
 AideJGC | 1 | Perfilamiento y compilación en C | Programador
-pautrejo | 1 |  | 
+pautrejo | 1 | Creación de tests y actualización de documentación | Project Manager
 joelitam2021 | 1 | | 
 jesusmb230795 | 1 |  | 
 
@@ -28,7 +28,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide**
 
-3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*.
+3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*. **Paulina**
 
 
 
@@ -36,7 +36,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 **Aide**: se investigó acerca de *web scraping* para obtener información de cryptomonedas. Se realizó perfilamiendo del método *bellman ford* usando diferentes métodos, asi como el perfilamiento de la función *exchange matrix* para variar el precio de las monedas en 5%. Elaboración de reporte.
 
-**Paulina**: 
+**Paulina**: se diseñó la prueba para contrastar el tiempo del método original vs el método compilado en C. Se comprueba que los resultados sean idénticos y que el tiempo de ejecución sea estrictamente menor para que pueda pasar el test. La documentación se actualiza con ambas funciones tanto la original como la compilación en C y se añaden nuevas instrucciones de instalación.
 
 **Joel**: 
 
@@ -44,6 +44,8 @@ Se dividio el equipo para realizar cuatro tareas.
 
 ### Documentación
 
+
+ [Bellman Ford Documentation](https://optimizacion-2-2022-gh-classroom.github.io/practica-2-segunda-parte-jesusmb230795/)
 
 ### Descripción de archivos
 
