@@ -23,7 +23,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 1. 2 personas que realicen perfilamiento del código.  **Aide** / **Enrique**
 
-2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide** / **Enrique**
+2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide** / **Joel**
 
 3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*. **Paulina**
 
