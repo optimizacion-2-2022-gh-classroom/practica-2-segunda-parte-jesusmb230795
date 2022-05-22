@@ -4,10 +4,7 @@
 
 ## Parte 2 de la práctica II, Optimización 2: reimplementación de secciones de código del paquete construído para uso de niveles de BLAS, compilación a C, cómputo en paralelo, concurrente o distribuido. Preparación para la entrega de su práctica / proyecto final
 
-
 ## Descripción
-
-
 
 ## Divisón del equipo
 
@@ -15,22 +12,20 @@
 |:---:|:---:|:---:|:---:|
 AideJGC | 1 | Perfilamiento y compilación en C | Programador
 pautrejo | 1 | Creación de tests y actualización de documentación | Project Manager
-joelitam2021 | 1 | | 
-jesusmb230795 | 1 |  | 
+joelitam2021 | 1 | |
+jesusmb230795 | 1 |  Perfilamiento y obtención de datos | Programador
 
 ## Trabajo
 
 ### Equipo
 
-Se dividio el equipo para realizar cuatro tareas. 
+Se dividio el equipo para realizar cuatro tareas.
 
-1. 2 personas que realicen perfilamiento del código.  **Aide**
+1. 2 personas que realicen perfilamiento del código.  **Aide** / **Enrique**
 
 2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide**
 
 3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*. **Paulina**
-
-
 
 ### Individual
 
@@ -38,12 +33,11 @@ Se dividio el equipo para realizar cuatro tareas.
 
 **Paulina**: se diseñó la prueba para contrastar el tiempo del método original vs el método compilado en C. Se comprueba que los resultados sean idénticos y que el tiempo de ejecución sea estrictamente menor para que pueda pasar el test. La documentación se actualiza con ambas funciones tanto la original como la compilación en C y se añaden nuevas instrucciones de instalación.
 
-**Joel**: 
+**Joel**:
 
-**Enrique** 
+**Enrique**: Se contruyo una función para obtener la lista de todas las monedas, asi como una función para descargar sus datos historicos. Para el preprocesamiento de la data a la creación de la red, se creo una clase para su procesamiento con apoyo del trabajo realizado por Aide. Por ultimo se hizo el perfilamiento del uso del CPU (perf).
 
 ### Documentación
-
 
  [Bellman Ford Documentation](https://optimizacion-2-2022-gh-classroom.github.io/practica-2-segunda-parte-jesusmb230795/)
 
@@ -64,7 +58,6 @@ Se dividio el equipo para realizar cuatro tareas.
 - Archivo [setup.py](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/blob/main/setup.py): instalador del paquete.
 
 - Archivo [test.py](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/blob/main/test.py): archivo que contiene los test al paquete.
-
 
 ## Comando de docker
 
