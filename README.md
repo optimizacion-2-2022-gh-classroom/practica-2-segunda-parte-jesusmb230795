@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|
 AideJGC | 1 | Perfilamiento y compilación en C | Programador
 pautrejo | 1 | Creación de tests y actualización de documentación | Project Manager
-joelitam2021 | 1 | |
+joelitam2021 | 1 | Perfilamiento y compilación en C | Programador
 jesusmb230795 | 1 |  Perfilamiento y obtención de datos | Programador
 
 ## Trabajo
@@ -23,7 +23,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 1. 2 personas que realicen perfilamiento del código.  **Aide** / **Enrique**
 
-2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide**
+2. 2 personas que realicen reimplementación / adición / eliminación de secciones al código de acuerdo al perfilamiento realizado. **Aide** / **Enrique**
 
 3. 1 persona que sea *project manager* (más detalles de este rol en las notas), cree nuevos *tests* para la reimplementación / adición / eliminación de secciones al código, haga actualización de documentación hecha con *Sphinx* y *software* en las imágenes de *docker*. **Paulina**
 
@@ -33,7 +33,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 **Paulina**: se diseñó la prueba para contrastar el tiempo del método original vs el método compilado en C. Se comprueba que los resultados sean idénticos y que el tiempo de ejecución sea estrictamente menor para que pueda pasar el test. La documentación se actualiza con ambas funciones tanto la original como la compilación en C y se añaden nuevas instrucciones de instalación.
 
-**Joel**:
+**Joel** Se replicó la creación del Docker, se trabajo en la optimización con cython, realicé las ejecuciones en el ambiente AWS. se hicieron las modificaciones a la configuracion en AWS para que poder ejecutar el perfilamiento del uso del CPU (perf) 
 
 **Enrique**: Se contruyo una función para obtener la lista de todas las monedas, asi como una función para descargar sus datos historicos. Para el preprocesamiento de la data a la creación de la red, se creo una clase para su procesamiento con apoyo del trabajo realizado por Aide. Por ultimo se hizo el perfilamiento del uso del CPU (perf).
 
@@ -94,3 +94,4 @@ Se cuenta con la opción de correr el paquete usando la herramienta de Binder
 * [An Analysis of Bellman-Ford and Dijkstra’s Algorithm](https://melitadsouza.github.io/pdf/algos.pdf)
 * [6.Minikube y AWS](https://github.com/ITAM-DS/analisis-numerico-computo-cientifico/wiki/6.Minikube-y-AWS)
 * [Minikube, Kubeflow y Kale 2022](https://www.youtube.com/watch?v=SusT5xQN1ro)
+* [running `perf` in docker & kubernetes](https://medium.com/@geekidea_81313/running-perf-in-docker-kubernetes-7eb878afcd42)
