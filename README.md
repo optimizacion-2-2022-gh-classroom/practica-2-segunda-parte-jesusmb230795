@@ -61,7 +61,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 ## Comando de docker
 
-Se cuenta con una imagen de docker que contiene preisntalado la nueva version deel paquete creado para ejecutar el método de Bellman Ford, y el en este link se puede ver el [Dockerfile](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-primera-parte-joelitam2021/blob/main/dockerfiles/pkg/Dockerfile)
+Se cuenta con una imagen de docker que contiene preisntalado la nueva version deel paquete creado para ejecutar el método de Bellman Ford, y el en este link se puede ver el [Dockerfile](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/blob/main/dockerfiles/pkg/Dockerfile)
 
 Para ejecutar el docker se usa la siguiente instrucción:
 
