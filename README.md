@@ -79,7 +79,7 @@ Le pedirá una contraseña, que por defaul es qwerty.
 
 Se cuenta con la opción de correr el paquete usando la herramienta de Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2022-gh-classroom/practica-2-primera-parte-joelitam2021.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/main)
 
 ## Referencias
 
