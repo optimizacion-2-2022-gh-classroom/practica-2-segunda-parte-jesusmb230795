@@ -51,7 +51,7 @@ Se dividio el equipo para realizar cuatro tareas.
 
 - Carpeta [src](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/tree/main/src): Contiene el código del paquete *bellman ford*.
 
-- Archivo [reporte_equipo_1_parte_2_practica_2.ipynb](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/blob/main/reporte_equipo_1_parte_1_practica_2.ipynb): reporte del perfilamiento realizado con el paquete optimizado.
+- Archivo [reporte_equipo_1_parte_2_practica_2.ipynb](reporte_equipo_1_parte_2_practica_2.ipynb): reporte del perfilamiento realizado con el paquete optimizado.
 
 - Archivo [requirements.txt](https://github.com/optimizacion-2-2022-gh-classroom/practica-2-segunda-parte-jesusmb230795/blob/main/requirements.txt): listado de paqueterías necesarias para el paquete y test.
 
